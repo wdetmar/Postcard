@@ -4,7 +4,8 @@
 //
 //  Created by William M. Detmar on 5/11/15.
 //  Copyright (c) 2015 William M. Detmar. All rights reserved.
-//
+//  Adding a comment to test commits.
+
 
 import UIKit
 
